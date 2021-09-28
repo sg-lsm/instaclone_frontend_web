@@ -3,8 +3,8 @@
 - [x] Router
 - [x] Authentication
 - [x] Arch.
-- [] Styles
-- [] Log In / Sign Up
+- [x] Styles
+- [x] Log In / Sign Up
 - [] Feed
 - [] Profile
 - [] See Hashtag
