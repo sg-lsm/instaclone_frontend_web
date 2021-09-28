@@ -20,12 +20,13 @@ import { logUserIn } from "../apollo";
 import { useLocation } from "react-router-dom";
 
 const FacebookLogin = styled.div`
-  color: #385285;
+  color: ${props=>props.theme.accent};
   span {
     margin-left: 10px;
     font-weight: 600;
   }
 `;
+
 
 const Notification = styled.div`
   color: #2ecc71;
