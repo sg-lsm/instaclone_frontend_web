@@ -141,7 +141,7 @@ function SignUp() {
         </form>
       </TopBox>
       <BottomBox
-        cta={"Have an account?"}
+        cta={"Have an account ? "}
         linkText="Log In"
         link={routes.home}
       />
